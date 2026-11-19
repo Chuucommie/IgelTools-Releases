@@ -3,9 +3,9 @@
   "channel": "stable",
   "version": "2.2.0",
   "tag": "igelserver-v2.2.0",
-  "released_at": "2026-11-19T13:27:15Z",
+  "released_at": "2026-11-19T22:53:09Z",
   "notes_url": "https://github.com/Chuucommie/IgelTools-Releases/releases/tag/igelserver-v2.2.0",
   "platforms": {
-    "linux-x86_64": { "url": "https://github.com/Chuucommie/IgelTools-Releases/releases/download/igelserver-v2.2.0/IgelServer-Bazzite-v2.2.0.AppImage", "sha256": "d6dfa305848c4a3b899fb9ce439eddb288507ba6a189f8fc92762e75e2eb9f8b", "size": 10127864 }
+    "macos-aarch64": { "url": "https://github.com/Chuucommie/IgelTools-Releases/releases/download/igelserver-v2.2.0/IgelServer-v2.2.0-aarch64.dmg", "sha256": "f918afed5e07292da29b4ad4c7ac837e9a1c635787842712bc9cc198d35ea28b", "size": 9083741 }
   }
 }
