@@ -1,0 +1,15 @@
+{
+  "app": "igelnotes",
+  "channel": "stable",
+  "version": "1.0.0",
+  "tag": "igelnotes-v1.0.0",
+  "released_at": "2026-11-19T22:55:41Z",
+  "notes_url": "https://github.com/Chuucommie/IgelTools-Releases/releases/tag/igelnotes-v1.0.0",
+  "platforms": {
+    "macos-universal": {
+      "url": "https://github.com/Chuucommie/IgelTools-Releases/releases/download/igelnotes-v1.0.0/IgelNotes-macOS-v1.0.0.dmg",
+      "sha256": "c919f7501beb0f454aaada403b12df24f305ba95d28633d42fd1b10f2ae4ae0b",
+      "size": 27557015
+    }
+  }
+}
