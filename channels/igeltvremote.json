@@ -1,15 +1,15 @@
 {
   "app": "igeltvremote",
   "channel": "stable",
-  "version": "1.0.0",
-  "tag": "igeltvremote-v1.0.0",
-  "released_at": "2026-11-19T22:51:35Z",
-  "notes_url": "https://github.com/Chuucommie/IgelTools-Releases/releases/tag/igeltvremote-v1.0.0",
+  "version": "1.0.1",
+  "tag": "igeltvremote-v1.0.1",
+  "released_at": "2026-11-20T14:52:03Z",
+  "notes_url": "https://github.com/Chuucommie/IgelTools-Releases/releases/tag/igeltvremote-v1.0.1",
   "platforms": {
     "macos": {
-      "url": "https://github.com/Chuucommie/IgelTools-Releases/releases/download/igeltvremote-v1.0.0/IgelTVRemote-macOS-v1.0.0.dmg",
-      "sha256": "0c3869ff2b228bf0873556a371b64da1df5d14409649059e94237cd61525727a",
-      "size": 7136615
+      "url": "https://github.com/Chuucommie/IgelTools-Releases/releases/download/igeltvremote-v1.0.1/IgelTVRemote-macOS-v1.0.1.dmg",
+      "sha256": "95b726020b076502f7ae6af82cfe6fa870eb824625b64ff52e36629452e333ef",
+      "size": 7491685
     }
   }
 }
