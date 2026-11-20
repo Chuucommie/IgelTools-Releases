@@ -1,15 +1,15 @@
 {
   "app": "igelnotes",
   "channel": "stable",
-  "version": "1.3.1",
-  "tag": "igelnotes-v1.3.1",
-  "released_at": "2026-11-20T13:31:08Z",
-  "notes_url": "https://github.com/Chuucommie/IgelTools-Releases/releases/tag/igelnotes-v1.3.1",
+  "version": "1.3.2",
+  "tag": "igelnotes-v1.3.2",
+  "released_at": "2026-11-20T14:04:41Z",
+  "notes_url": "https://github.com/Chuucommie/IgelTools-Releases/releases/tag/igelnotes-v1.3.2",
   "platforms": {
     "macos-universal": {
-      "url": "https://github.com/Chuucommie/IgelTools-Releases/releases/download/igelnotes-v1.3.1/IgelNotes-macOS-v1.3.1.dmg",
-      "sha256": "f539e197e3225bd39b4e4c7092edf63203edc4e9efcd38e015d38a6c7e1ec1ee",
-      "size": 26661758
+      "url": "https://github.com/Chuucommie/IgelTools-Releases/releases/download/igelnotes-v1.3.2/IgelNotes-macOS-v1.3.2.dmg",
+      "sha256": "d04baf8fe6f3bb072a7a4af39d330c5f290008bdbbd6d341574812a8ae45c94f",
+      "size": 26661726
     }
   }
 }
